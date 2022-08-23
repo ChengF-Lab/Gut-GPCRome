@@ -1,4 +1,4 @@
-Comprehensive characterization of multi-omic landscapes between gut-microbiota metabolites and the G-protein-coupled receptors. Yunguang Qiu, et al.
+## Comprehensive characterization of multi-omic landscapes between gut-microbiota metabolites and the G-protein-coupled receptors. Yunguang Qiu, et al.
 
 Instructions:
 
