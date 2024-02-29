@@ -1,4 +1,4 @@
-## Comprehensive characterization of multi-omic landscapes between gut-microbiota metabolites and the G-protein-coupled receptors. Yunguang Qiu, et al.
+## Systematic characterization of multi-comics landscape between gut microbial metabolites and GPCRome. Yunguang Qiu, et al.
 
 Instructions:
 
@@ -9,11 +9,17 @@ ML_code directory for ML models generation and prediction:
 
 	2. The mechine learning model were created and evaluated by using open-source Pycaret 2.2 [full version].
 
-	3. The process of creating ML models can be found in ml.ipynb;
+	3. The process of creating ML models can be found in ml.ipynb.
+ 
+ 	4. The et_model.tar.gz is pre-trained extra trees model, which could be called directly in ml.ipynb.
 
-Reference:
-1.Lu J, et al., Incorporating Explicit Water Molecules and Ligand Conformation Stability in Machine-Learning Scoring Functions. Journal of Chemical Information and Modeling 59, 4540-4549 (2019).
+  	5. The GNN model is built separately (GNN_model.tar.gz). 
+
+
+References:
+1. Lu J, et al., Incorporating Explicit Water Molecules and Ligand Conformation Stability in Machine-Learning Scoring Functions. Journal of Chemical Information and Modeling 59, 4540-4549 (2019).
 2. pycaret.org. PyCaret, April 2020. URL https://pycaret.org/about. PyCaret version 1.0.0.
+3. https://github.com/HyunSeobKim/CHEM-BERT
 
 
 Pocket_classfication_code directory for scripts of identifing and matching pocket position in GPCR receptor:
